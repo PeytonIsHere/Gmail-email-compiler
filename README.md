@@ -18,8 +18,7 @@ This project allows you to collect email addresses via a Google Form and automat
 
 1. Go to [Google Forms](https://forms.google.com) and **create a new form**.
 2. Add **one question**:
-   - Type: `Short Answer`
-   - Label: `Email`
+   - Change `Multiple choice` to `Short Answer`
    - Click the **three dots (⋮)** > **Response validation**:
      - First dropdown: `Text`
      - Second dropdown: `Email`
